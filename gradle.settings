@@ -1,0 +1,3 @@
+rootProject.name = 'kafka-orderbook'
+include 'orderbook'
+include 'bittrex-listener'
